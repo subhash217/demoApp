@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function App() {
+function App() {
   return <div>subash</div>;
 }
+
+export default App;
